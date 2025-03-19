@@ -1,8 +1,6 @@
-re
-string
 streamlit
-PyPDF2
-sklearn.metrics.pairwise 
 numpy
-sentence_transformers
-collections
+scikit-learn
+sentence-transformers
+PyPDF2
+
