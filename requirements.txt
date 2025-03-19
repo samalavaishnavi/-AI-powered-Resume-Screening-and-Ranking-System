@@ -1,8 +1,10 @@
-streamlit == 1.42.2
-nltk
-spacy
-scikit-learn
-PyPDF2==2.10.0
-python-docx
-sentence-transformers ==  3.4.1
 
+
+re
+string
+streamlit
+PyPDF2
+sklearn.metrics.pairwise 
+numpy
+sentence_transformers
+collections
